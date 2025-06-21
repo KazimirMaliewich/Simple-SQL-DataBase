@@ -1,0 +1,3 @@
+C:/Users/ivann/CLionProjects/DataBase2.0/cmake-build-debug/CMakeFiles/DataBase2_0.dir
+C:/Users/ivann/CLionProjects/DataBase2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivann/CLionProjects/DataBase2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
